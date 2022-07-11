@@ -14,8 +14,8 @@
 
 #ignore everything
 /*
-!/Assets/
-!/Assets/MMMaellon/
+/Assets/*
+/Assets/MMMaellon
 !/Assets/MMMaellon/PoolParty/
 !/Assets/MMMaellon/PoolParty/*
 !/Assets/MMMaellon/PoolParty/*/*
