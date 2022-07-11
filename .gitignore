@@ -14,7 +14,12 @@
 
 #ignore everything
 /*
-!Assets/MMMaellon/PoolParty/
+!/Assets/
+!/Assets/MMMaellon/
+!/Assets/MMMaellon/PoolParty/
+!/Assets/MMMaellon/PoolParty/*
+!/Assets/MMMaellon/PoolParty/*/*
+!/Assets/MMMaellon/PoolParty/*/*/*
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
